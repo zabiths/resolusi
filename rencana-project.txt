@@ -2,6 +2,7 @@ Rencana Project
 
 - Membuat aplikasi full stack javascirpt
   * React JS
+
   * Vue JS
   * Angular JS
 - Membuat Aplikasi CodeIgniter
