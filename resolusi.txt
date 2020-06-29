@@ -3,4 +3,4 @@ Resolusi
 - Membuat banyak project yang berguna
 - Mempercantik Github
 - Meraih Prestasi
-- Menguasai Node.js
+- Menjadi Full stack Developer
