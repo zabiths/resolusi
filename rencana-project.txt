@@ -1,4 +1,6 @@
 Rencana Project 
 
 - Membuat aplikasi full stack javascirpt
+  * React JS
 - aplikasi andorid
+  * Flutter
