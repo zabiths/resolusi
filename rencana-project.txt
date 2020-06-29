@@ -1,0 +1,4 @@
+Rencana Project 
+
+- Membuat aplikasi full stack javascirpt
+- aplikasi andorid
