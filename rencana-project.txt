@@ -2,6 +2,7 @@ Rencana Project
 
 - Membuat aplikasi full stack javascirpt
   * React JS
-- Membuat Aplikasi CodeIgniter
+  * Ruby
 - aplikasi andorid
   * Flutter
+- Python
